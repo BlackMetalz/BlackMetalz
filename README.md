@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GO and more with the help of AI
 
 ## Latest projects
+- [vault-vim](https://github.com/BlackMetalz/vault-vim) : A terminal UI for HashiCorp Vault KV v2 secrets. Browse, view, edit, and manage secrets without remembering CLI commands. For user have hard time to remember CLI, for user doesn't have access to Vault UI or don't want to use Vault UI in browser
 - [ChgK8SCtx](https://github.com/BlackMetalz/ChgK8sCtx): Clone idea of Kubectx/Kubens, learning Golang's purpose with little extra features.
 - [holyf-network](https://github.com/BlackMetalz/holyf-network): Network visibility/monitoring, resolved my pain point in the past, like tracking connections to a specific port, which IP is creating the most connections to a specific port, and more.
 - [lazy-hole](https://github.com/BlackMetalz/lazy-hole): Create to resolve pain when testing network disaster for applications/databases.
