@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GO and more with the help of AI
 
 ## Tool projects
-- [Elasticsearch CLI](https://github.com/BlackMetalz/es-cli/): a Terminal UI for access Elasticsearch (verified with 8.x version), gonna support Opensearch soon.
+- [Elasticsearch CLI](https://github.com/BlackMetalz/es-cli/): a Terminal UI for access Elasticsearch (verified with 8.x version), partial works in version 6.x + 7.x (read-only mode), gonna support Opensearch soon.
 - [Vault Vim](https://github.com/BlackMetalz/vault-vim) : A terminal UI for HashiCorp Vault KV v2 secrets. Browse, view, edit, and manage secrets without remembering CLI commands. For user have a hard time remembering CLI, for user doesn't have access to Vault UI, or don't want to use Vault UI in a browser
 - [Kube change context](https://github.com/BlackMetalz/ChgK8sCtx): Clone idea of Kubectx/Kubens, learning Golang's purpose with little extra features.
 - [Holyf Network](https://github.com/BlackMetalz/holyf-network): Network visibility/monitoring, resolved my pain point in the past, like tracking connections to a specific port, which IP is creating the most connections to a specific port, and more.
